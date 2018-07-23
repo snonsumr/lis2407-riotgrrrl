@@ -62,6 +62,7 @@
                 <xs:element name="vraSection">
                     <xs:complexType>
                         <xs:sequence>
+                            <xs:element ref="vra:worktypeSet" minOccurs="0"></xs:element>
                             <xs:element ref="vra:work" minOccurs="0"/>
                             <xs:element ref="vra:image" minOccurs="0"/>
                             <xs:element ref="vra:collection" minOccurs="0"/>
