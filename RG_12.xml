@@ -4,18 +4,18 @@
     xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
-
-
-
-   
-        <riot:riotSection>
-            <riot:clothingDescription>
-                <riot:tSize>L</riot:tSize>
-                <riot:tColor>White</riot:tColor>
-            </riot:clothingDescription>
-
-        </riot:riotSection>
-
+    
+    
+    
+    
+    <riot:riotSection>
+        <riot:clothingDescription>
+            <riot:tSize>L</riot:tSize>
+            <riot:tColor>Black with white design</riot:tColor>
+        </riot:clothingDescription>
+        
+    </riot:riotSection>
+    
     <riot:modsSection>
         <mods:mods>
             <mods:titleInfo>
@@ -25,30 +25,29 @@
                 <mods:namePart>Hanna, Kathleen</mods:namePart>
                 <mods:namePart type="date">1968-</mods:namePart>
                 <mods:role>
-                    <mods:roleTerm type="text" authority="marcrelator">cov</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">cov</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator">cover designer</mods:roleTerm>
                 </mods:role>
             </mods:name>
-
-
+            
+            
             <mods:originInfo>
                 <mods:dateIssued keyDate="yes" encoding="w3cdtf">1993</mods:dateIssued>
                 <mods:copyrightDate encoding="w3cdtf">1993></mods:copyrightDate>
                 <mods:publisher>Self-published</mods:publisher>
             </mods:originInfo>
-
-
-            <mods:genre authority="aat">T-shirts</mods:genre>
+            
             <mods:genre authority="aat">DIY (cultural movements and attitudes)</mods:genre>
-
+            
             <mods:physicalDescription>
-                <xxxx type="material">cotton<xxxx>
-                <xxxx type="technique">screen print<xxxx>
-                <mods:extent>1 T-shirt</mods:extent>
-                <mods:note type="text">Shirt is black with white design. Size is United States women's large: 42 inches in circumfrence, 27 inches long.</mods:note>
+                <mods:form type="material">cotton</mods:form>
+                    <mods:form type="technique">screen print</mods:form>
+                        <mods:extent>1 T-shirt</mods:extent>
+                      
             </mods:physicalDescription>
-
+            
             <mods:abstract type="text">This shirt was marketed by Kill Rock Stars record label and Bikini Kill after the release of Bikini Kill's split album of the same name in 1993.</mods:abstract>
-
+            
             <mods:subject authority="naf">
                 <mods:name type="corporate">
                     <mods:namePart>Bikini Kill (Musical group)</mods:namePart>
@@ -66,37 +65,37 @@
             <mods:subject authority="lcsh">
                 <mods:topic>Brand name products</mods:topic>
             </mods:subject>
-
-
+            
+            
             <mods:language>
                 <mods:languageTerm type="text">English</mods:languageTerm>
                 <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
             </mods:language>
-
+            
             <mods:identifier type="local" displayLabel="Item Number">RG_12</mods:identifier>
-
+            
             <mods:relatedItem type="host" displayLabel="Collection">
                 <mods:titleInfo>
                     <mods:title>Riot Grrrl Virtual Collection</mods:title>
                 </mods:titleInfo>
             </mods:relatedItem>
-
+            
             <mods:location>
                 <mods:url displayLabel="Website" dateLastAccessed="2018-07-06"
                     >https://www.etsy.com/listing/268087984</mods:url>
             </mods:location>
-
-
+            
+            
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="w3cdtf">2018-07-02</mods:recordCreationDate>
                 <mods:recordContentSource>ppiuls</mods:recordContentSource>
             </mods:recordInfo>
-
-
+            
+            
         </mods:mods>
     </riot:modsSection>
-
-
+    
+    
     <riot:vraSection>
         <vra:work>
             <vra:worktypeSet>
@@ -106,5 +105,5 @@
             </vra:worktypeSet>
         </vra:work>
     </riot:vraSection>
-
+    
 </riot:riot>
