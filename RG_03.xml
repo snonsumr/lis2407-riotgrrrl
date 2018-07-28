@@ -14,7 +14,7 @@
             </mods:titleInfo>
 
             <mods:name type="personal" authority="naf">
-                <mods:namePart>Hanna, Kathleen 1968-</mods:namePart>
+                <mods:namePart>Hanna, Kathleen, 1968-</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text">Creator</mods:roleTerm>
                     <mods:roleTerm type="code">cre</mods:roleTerm>
@@ -24,7 +24,7 @@
             <mods:originInfo>
                 <mods:dateIssued keyDate="yes" encoding="w3cdtf">1993</mods:dateIssued>
                 <mods:copyrightDate encoding="w3cdtf">2004</mods:copyrightDate>
-                <mods:publisher>Hannah, Kathleen</mods:publisher>
+                <mods:publisher>self-published</mods:publisher>
             </mods:originInfo>
 
 
@@ -52,6 +52,9 @@
             <mods:subject authority="lcsh">
                 <mods:topic>Lemonheads (Musical group)</mods:topic>
             </mods:subject>
+            <mods:subject authority="naf">
+                <mods:name>
+                    <mods:namepart>Dando, Evan</mods:namepart></mods:name></mods:subject>
 
 
 
@@ -80,7 +83,8 @@
 
 
         <mods:recordInfo>
-            <mods:creationDate encoding="w3cdtf">2018-07-20</mods:creationDate>
+            <mods:recordCreationDate encoding="w3cdtf">2018-07-20</mods:recordCreationDate>
+                <mods:recordContentSource>ppiuls</mods:recordContentSource>
         </mods:recordInfo>
 
 
