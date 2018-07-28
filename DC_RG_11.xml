@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<riotdc
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Bikini Kill, Sydney Uni., Australia, 2nd May 1997</dc:title>
+<dc:creator>Howarth, Sophie</dc:creator>
+<dc:subject xsi:type="dcterms:AAT">black-and-white photograph</dc:subject>
+<dc:subject xsi:type="dcterms:AAT">documentary photograph</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Riot grrrl movement</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Feminism and music</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Women rock musicians -- Biography</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Punk rock musicians -- Biography</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Hanna, Kathleen, 1968-</dc:subject>
+<dc:description>A photograph of a Bikini Kill concert at Sydney University, Australia in 1997</dc:description>
+<dc:contributor>Vail, Tobi, 1969-</dc:contributor>
+<dc:contributor>Wilcox, Kathy, 1969-</dc:contributor>
+<dc:date xsi:type="dcterms:W3CDTF">1997-05-02</dc:date>
+<dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+<dc:format>photographic print</dc:format>
+<dcterms:extent>1 print</dcterms:extent>
+<dc:identifier>RG_11</dc:identifier>
+<dc:source xsi:type="dcterms:URI">https://bikinikillarchive.files.wordpress.com/2010/03/97.jpg</dc:source>
+<dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+<dc:relation>Riot Grrrl Virtual Collection</dc:relation>
+<dc:coverage xsi:type="dcterms:TGN">The University of Sydney (college)</dc:coverage>
+
+</riotdc>
