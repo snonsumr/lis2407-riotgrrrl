@@ -28,7 +28,7 @@
             <mods:genre authority="aat">DIY (cultural movements and attitudes)</mods:genre>
 
             <mods:physicalDescription>
-                <xxxx authority="marcsmd">text<xxxx>
+                <mods:form authority="marcsmd">text</mods:form>
                 <mods:extent>1 flier; 8.5 x 11 in</mods:extent>
             </mods:physicalDescription>
 
@@ -47,7 +47,7 @@
                 <mods:geographic>Dupont Circle (Washington D.C.)</mods:geographic>
             </mods:subject>
             <mods:subject authority="lcsh">
-                <mods:topic>Third wave femanism</mods:topic>
+                <mods:topic>Third-wave feminism</mods:topic>
             </mods:subject>
             <mods:subject authority="lcsh">
                 <mods:topic>Feminism</mods:topic>
@@ -73,6 +73,7 @@
 
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="w3cdtf">2018-07-04</mods:recordCreationDate>
+                <mods:recordContentSource>ppiuls</mods:recordContentSource>
             </mods:recordInfo>
 
 
