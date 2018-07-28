@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+
+
+    <riot:riotSection> </riot:riotSection>
+
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title lang="en">Free Pussy Riot</mods:title>
+            </mods:titleInfo>
+
+
+            <mods:name authority="local" type="corporate">
+                <mods:namePart>Tobi Vail and the Pussy Riot Olympia Solidarity Band</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Artist</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">art</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+
+            <mods:originInfo>
+                <mods:dateIssued encoding="w3cdtf" keyDate="yes">2012-10-07</mods:dateIssued>
+                <mods:copyrightDate encoding="w3cdtf">2012-09-18</mods:copyrightDate>
+                <mods:publisher>Self-published</mods:publisher>
+                <mods:place>
+                    <mods:placeTerm type="text" authority="marccountry">wau</mods:placeTerm>
+                    <mods:placeTerm type="text">Olympia, WA</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+
+            <mods:genre authority="aat">MP3</mods:genre>
+
+
+
+            <mods:physicalDescription>
+                <mods:digitalOrigin>born digital</mods:digitalOrigin>
+                <mods:extent>1 MP3; 4:34</mods:extent>
+                <xxxx authority="aat">Digital audio; MP3<xxxx>
+            </mods:physicalDescription>
+
+            <mods:abstract type="text">A collaboration between Tobi Vail (former drummer of Bikini Kill) and Henry Riot,
+    "Free Pussy Riot" was written and performed to support imprisoned members of the Russian feminist 
+    punk collective, Pussy Riot.</mods:abstract>
+
+            <mods:subject authority="naf">
+                <mods:name type="corporate">
+                    <mods:namePart>Pussy Riot (Musical group)</mods:namePart>
+                </mods:name>
+            </mods:subject>
+            <mods:subject authority="naf">
+                <mods:name type="personal">
+                    <mods:namePart>Alekhina, Mariia, 1988-</mods:namePart>
+                </mods:name>
+            </mods:subject>
+            <mods:subject authority="local">
+                <mods:name type="personal">
+                    <mods:namePart>Riot, Henri</mods:namePart>
+                </mods:name>
+            </mods:subject>
+            <mods:subject authority="naf">
+                <mods:name type="personal">
+                    <mods:namePart>Samutsevich, Ekaterina, 1982-</mods:namePart>
+                </mods:name>
+            </mods:subject>
+            <mods:subject authority="naf">
+                <mods:name type="personal">
+                    <mods:namePart>Tolokonnikova, Nadezhda, 1989-</mods:namePart>
+                </mods:name>
+            </mods:subject>
+            <mods:subject authority="local">
+                <mods:name type="personal">
+                    <mods:namePart>Vail, Tobi</mods:namePart>
+                </mods:name>
+            </mods:subject>
+            <mods:subject authority="lcdgt">
+                <mods:topic>Political prisoners</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Punk rock music</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Women punk rock musicians</mods:topic>
+            </mods:subject>
+
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+
+            <mods:identifier type="local" displayLabel="Item Number">RG_13</mods:identifier>
+
+
+            <mods:relatedItem type="host" displayLabel="collection">
+                <mods:titleInfo>
+                    <mods:title>Riot Grrrl Virtual Collection</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+            <mods:location>
+                <mods:url displayLabel="Website" dateLastAccessed="2018-07-06"
+                    >https://spiderandthewebs.bandcamp.com/track/free-pussy-riot</mods:url>
+            </mods:location>
+
+
+            <mods:recordInfo>
+                <mods:recordCreationDate>2018-06-26</mods:recordCreationDate>
+                <mods:recordContentSource>ppiuls</mods:recordContentSource>
+            </mods:recordInfo>
+        </mods:mods>
+    </riot:modsSection>
+
+
+    <riot:vraSection>
+        <vra:work>
+            <vra:worktypeSet>
+                <vra:display>MP3; Digital audio formats</vra:display>
+                <vra:worktype vocab="AAT" refid="300312047">MP3; Digital audio formats</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </riot:vraSection>
+
+</riot:riot>

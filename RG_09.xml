@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+
+
+    <riot:riotSection> </riot:riotSection>
+
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Bikini Kill</mods:title>
+                <mods:partNumber>vol. 1</mods:partNumber>
+            </mods:titleInfo>
+
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Bikini Kill (Musical group)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Artist</mods:roleTerm>
+                    <mods:roleTerm type="code">art</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hanna, Kathleen 1968-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Author</mods:roleTerm>
+                    <mods:roleTerm type="code">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Vail, Tobi 1969-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Author</mods:roleTerm>
+                    <mods:roleTerm type="code">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Wilcox, Kathy 1969-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Author</mods:roleTerm>
+                    <mods:roleTerm type="code">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            
+            <mods:originInfo>
+                <mods:dateCreated keyDate="yes" encoding="w3cdtf">1990</mods:dateCreated>
+                <mods:copyrightDate encoding="w3cdtf">2004</mods:copyrightDate>
+                <mods:publisher>Self-published</mods:publisher>
+            </mods:originInfo>
+
+            <mods:genre authority="aat">punk (international movement)</mods:genre>
+
+            <mods:physicalDescription>
+                <xxxx authority="marcsmd">text<xxxx>
+                <mods:extent>"24 p."</mods:extent>
+                <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+            </mods:physicalDescription>
+
+            <mods:abstract>A zine dedicated to Bikini Kill llustrations, lists, photographs, advertisements, song lyrics and short essays. 
+        Also includes information on female musicians and an extended interview with Mecca Normal.</mods:abstract>
+
+
+            <mods:subject authority="lcsh">
+                <mods:topic>Riot grrrl movement</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Third wave feminism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Punk rock music</mods:topic>
+            </mods:subject>
+
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+
+            <mods:identifier type="local" displayLabel="Item Number">RG_09</mods:identifier>
+
+            <mods:relatedItem type="host" displayLabel="collection">
+                <mods:titleInfo>
+                    <mods:title>Riot Grrrl Virtual Collection</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+            <mods:location>
+                <mods:url displayLabel="Website" dateLastAccessed="2018-07-07"
+                    >http://dlib.nyu.edu/findingaids/html/fales/hanna/dscaspace_ref116.html</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Website" dateLastAccessed="2018-07-07"
+                    >http://www.zinewiki.com/Bikini_Kill</mods:url>
+            </mods:location>
+
+            <mods:recordInfo>
+                <mods:recordCreationDate encoding="w3cdtf">2018-07-25</mods:recordCreationDate>
+            </mods:recordInfo>
+
+        </mods:mods>
+    </riot:modsSection>
+
+
+    <riot:vraSection>
+        <vra:worktypeSet>
+            <vra:display>Zine; Fanzine</vra:display>
+            <vra:worktype vocab="AAT" refid="300252980">Fanzines</vra:worktype>
+        </vra:worktypeSet>
+    </riot:vraSection>
+
+
+</riot:riot>

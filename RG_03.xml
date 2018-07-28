@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+    <riot:riotSection> </riot:riotSection>
+
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>My Life with Evan Dando, Popstar</mods:title>
+            </mods:titleInfo>
+
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hanna, Kathleen 1968-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Creator</mods:roleTerm>
+                    <mods:roleTerm type="code">cre</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+            <mods:originInfo>
+                <mods:dateIssued keyDate="yes" encoding="w3cdtf">1993</mods:dateIssued>
+                <mods:copyrightDate encoding="w3cdtf">2004</mods:copyrightDate>
+                <mods:publisher>Hannah, Kathleen</mods:publisher>
+            </mods:originInfo>
+
+
+            <mods:genre authority="aat">punk (international movement)</mods:genre>
+
+            <mods:physicalDescription>
+                <mods:extent>"24 p."</mods:extent>
+                <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+            </mods:physicalDescription>
+
+            <mods:abstract>A critical zine of the figure of Evan Dando as a complex symbol of male desirability and oppression.</mods:abstract>
+
+            <mods:subject authority="lcsh">
+                <mods:topic>Riot grrrl movement</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Third wave feminism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Punk rock music</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Lemonheads (Musical group)</mods:topic>
+            </mods:subject>
+
+
+
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+        </mods:mods>
+
+        <mods:identifier type="local" displayLabel="Item Number">RG_03</mods:identifier>
+
+        <mods:relatedItem type="host" displayLabel="collection">
+            <mods:titleInfo>
+                <mods:title>Riot Grrrl Virtual Collection</mods:title>
+            </mods:titleInfo>
+        </mods:relatedItem>
+
+        <mods:location>
+            <mods:url displayLabel="Website" dateLastAccessed="2018-07-07">
+                http://dlib.nyu.edu/findingaids/html/fales/hanna/dscaspace_ref116.html</mods:url>
+        </mods:location>
+        <mods:location>
+            <mods:url displayLabel="Website" dateLastAccessed="2018-07-07">
+                http://bedfordandbowery.com/2013/12/check-out-kathleen-hannas-anti-evan-dando-zine-plus-an-excerpt-from-bamboo-girl/</mods:url>
+        </mods:location>
+
+
+        <mods:recordInfo>
+            <mods:creationDate encoding="w3cdtf">2018-07-20</mods:creationDate>
+        </mods:recordInfo>
+
+
+    </riot:modsSection>
+
+
+    <riot:vraSection>
+        <vra:work>
+            <vra:worktypeSet>
+                <vra:display>Zine; Fanzine</vra:display>
+                <vra:worktype vocab="AAT" refid="300252980">Fanzines</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </riot:vraSection>
+
+</riot:riot>

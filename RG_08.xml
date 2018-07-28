@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+
+    <riot:riotSection> </riot:riotSection>
+
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Dupont Circle Flier</mods:title>
+            </mods:titleInfo>
+
+
+            <mods:originInfo>
+                <mods:dateIssued keyDate="yes" encoding="w3cdtf">1992-08-02</mods:dateIssued>
+                <mods:copyrightDate encoding="w3cdtf">1992-08-02></mods:copyrightDate>
+                <mods:publisher>Riot Grrrl Washington D.C.</mods:publisher>
+                <mods:place>
+                    <mods:placeTerm>Washington (D.C.)</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+
+            <mods:genre authority="aat">punk (international movement)</mods:genre>
+            <mods:genre authority="aat">DIY (cultural movements and attitudes)</mods:genre>
+
+            <mods:physicalDescription>
+                <xxxx authority="marcsmd">text<xxxx>
+                <mods:extent>1 flier; 8.5 x 11 in</mods:extent>
+            </mods:physicalDescription>
+
+            <mods:abstract>
+        Flier for a show and talk, hosted by Riot Grrrl D.C. at Dupont Circle on Saturday, August 2, 1992.
+        "Sunday, Aug. 2 at Dupont Circle
+        10:30 - 12:00 girls and boys come together to talk about ending sexism.
+        12:00 - 6:00 girl powered bands and performers will rock your world
+        If you want to do something, show up we'll try to fit you in
+        xoxoxoxo" [flier text]
+    </mods:abstract>
+
+
+            <mods:subject authority="lcsh">
+                <mods:topic>Riot grrrl movement</mods:topic>
+                <mods:geographic>Dupont Circle (Washington D.C.)</mods:geographic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Third wave femanism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Punk rock music</mods:topic>
+            </mods:subject>
+
+
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            
+<mods:identifier type="local" displayLabel="Item Number">RG_08</mods:identifier>
+            
+            <mods:relatedItem type="host" displayLabel="collection">
+                <mods:titleInfo>
+                    <mods:title>Riot Grrrl Virtual Collection</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+
+            <mods:recordInfo>
+                <mods:recordCreationDate encoding="w3cdtf">2018-07-04</mods:recordCreationDate>
+            </mods:recordInfo>
+
+
+        </mods:mods>
+    </riot:modsSection>
+
+
+    <riot:vraSection>
+        <vra:worktypeSet>
+            <vra:display>Flier</vra:display>
+            <vra:worktype vocab="AAT" refid="300224742">Fliers; Printed matter</vra:worktype>
+        </vra:worktypeSet>
+    </riot:vraSection>
+
+</riot:riot>

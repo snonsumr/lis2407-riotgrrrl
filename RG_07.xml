@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+
+
+    <riot:riotSection> </riot:riotSection>
+
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:nonSort>The</mods:nonSort>
+                <mods:title>The First Two Records</mods:title>
+            </mods:titleInfo>
+
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Bikini Kill (Musical group)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Creator</mods:roleTerm>
+                    <mods:roleTerm type="code">cre</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hanna, Kathleen 1968-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Contributor</mods:roleTerm>
+                    <mods:roleTerm type="code">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+
+            <mods:originInfo>
+                <mods:dateIssued keyDate="yes" encoding="w3cdtf">2015-06-23</mods:dateIssued>
+                <mods:copyrightDate encoding="w3cdtf">2015-06-23</mods:copyrightDate>
+                <mods:publisher>Bikini Kill Records</mods:publisher>
+                <mods:place>
+                    <mods:placeTerm>San Francisco, CA</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+
+            <mods:genre authority="aat">punk (international movement)</mods:genre>
+
+            <mods:physicalDescription>
+                <xxxx authority="marcsmd">optical disc; CD<xxxx>
+                <mods:extent>00:31:05 minutes</mods:extent>
+            </mods:physicalDescription>
+
+
+            <mods:abstract>Bikini Kill's first CD release, featuring recordings from 1991-1993.</mods:abstract>
+
+
+            <mods:part type="track" order="1">
+                <mods:detail>
+                    <mods:title>Double Dare Ya</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="2">
+                <mods:detail>
+                    <mods:title>Liar</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="3">
+                <mods:detail>
+                    <mods:title>Carnival</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="4">
+                <mods:detail>
+                    <mods:title>Suck My Left One</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="5">
+                <mods:detail>
+                    <mods:title>Feels Blind</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="6">
+                <mods:detail>
+                    <mods:title>Thurston Hearts The Who</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="7">
+                <mods:detail>
+                    <mods:title>White Boy</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="8">
+                <mods:detail>
+                    <mods:title>This is Not A Test</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="9">
+                <mods:detail>
+                    <mods:title>Don't Need You</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="10">
+                <mods:detail>
+                    <mods:title>Jigsaw Youth</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="11">
+                <mods:detail>
+                    <mods:title>Resist Psychic Death</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="12">
+                <mods:detail>
+                    <mods:title>Rebel Girl</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="13">
+                <mods:detail>
+                    <mods:title>Outta Me</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="14">
+                <mods:detail>
+                    <mods:title>George Bush Is A Pig</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="15">
+                <mods:detail>
+                    <mods:title>I Busted In Your Chevy Window</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="16">
+                <mods:detail>
+                    <mods:title>Get Out</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="17">
+                <mods:detail>
+                    <mods:title>Why</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="18">
+                <mods:detail>
+                    <mods:title>Fuck Twin Peaks</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="19">
+                <mods:detail>
+                    <mods:title>Girl Soldier</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="20">
+                <mods:detail>
+                    <mods:title>Not Right Now</mods:title>
+                </mods:detail>
+            </mods:part>
+
+
+
+            <mods:subject authority="lcsh">
+                <mods:topic>Riot grrrl movement</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Third wave femanism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Femanism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Punk rock music</mods:topic>
+            </mods:subject>
+
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+
+            <mods:identifier type="local" displayLabel="Item Number">RG_07</mods:identifier>
+
+            <mods:relatedItem type="host" displayLabel="collection">
+                <mods:titleInfo>
+                    <mods:title>Riot Grrrl Virtual Collection</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+
+            <mods:location>
+                <mods:url displayLabel="Website" dateLastAccessed="2018-07-04"
+                    >https://www.discogs.com/Bikini-Kill-The-First-Two-Records-/release/7157146</mods:url>
+            </mods:location>
+
+            <mods:recordInfo>
+                <mods:recordCreationDate>2018-07-04</mods:recordCreationDate>
+            </mods:recordInfo>
+
+
+        </mods:mods>
+    </riot:modsSection>
+
+
+
+    <riot:vraSection>
+        <vra:worktypeSet>
+            <vra:display>Sound Recordings;CD</vra:display>
+            <vra:worktype vocab="AAT" refid="300028633">Sound Recordings</vra:worktype>
+        </vra:worktypeSet>
+    </riot:vraSection>
+
+
+</riot:riot>

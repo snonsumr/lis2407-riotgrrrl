@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+    <riot:riotSection> </riot:riotSection>
+
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>There's a Dyke in the Pit</mods:title>
+            </mods:titleInfo>
+
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Bikini Kill (Musical group)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Contributer</mods:roleTerm>
+                    <mods:roleTerm type="code">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Tribe 8 (Musical group)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Contributer</mods:roleTerm>
+                    <mods:roleTerm type="code">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Lucy Stoners (Musical group)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Contributer</mods:roleTerm>
+                    <mods:roleTerm type="code">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>7 Year Bitch (Musical group)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Contributer</mods:roleTerm>
+                    <mods:roleTerm type="code">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+
+
+            <mods:originInfo>
+                <mods:dateIssued keyDate="yes" encoding="w3cdtf">1992</mods:dateIssued>
+                <mods:copyrightDate encoding="w3cdtf">1992</mods:copyrightDate>
+                <mods:publisher>Outpunk Records</mods:publisher>
+                <mods:place>
+                    <mods:placeTerm>San Francisco, CA.</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+
+            <mods:genre authority="aat">punk (international movement)</mods:genre>
+
+            <mods:physicalDescription>
+                <xxxx authority="marcsmd">sound disc; LP 7 in.<xxxx>
+                <mods:extent>00:10:21 minutes</mods:extent>
+            </mods:physicalDescription>
+
+
+            <mods:abstract>
+        This LP is a compilation of songs from bands that were part of
+        the Riot Grrrl punk rock movement including: Bikini Kill, 
+        Tribe 8, Lucy Stoners, and 7 Year Bitch. 
+        "3000 women are killed
+        a year in the US by domestic violence. More than one quarter
+        of all women in the US will be abused by their partner sometime
+        in their lives. Rape is a major form of abuse in over half of
+        marriages with domestic violence. Absuse also includes but is not 
+        limited to: physical violence, assault, sexual abuse, intimidation
+        and threats of such. The profits from the sale of this EP will be 
+        given to the bands, to be donated to the battered women's shelters
+        of their choice. Thank you." [LP jacket]
+    </mods:abstract>
+
+            <mods:part type="track" order="1">
+                <mods:detail>
+                    <mods:title>Bikini Kill - Suck My Left One</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="2">
+                <mods:detail>
+                    <mods:title>Tribe 8 - Manipulate</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="3">
+                <mods:detail>
+                    <mods:title>Lucy Stoners - Soiled Princess</mods:title>
+                </mods:detail>
+            </mods:part>
+            <mods:part type="track" order="4">
+                <mods:detail>
+                    <mods:title>7 Year Bitch - Dead Men Don't Rape</mods:title>
+                </mods:detail>
+            </mods:part>
+
+
+
+            <mods:subject authority="lcsh">
+                <mods:topic>Riot grrrl movement</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Third wave femanism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Punk rock music</mods:topic>
+            </mods:subject>
+
+
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+
+            <mods:identifier type="local" displayLabel="Item Number">RG_06</mods:identifier>
+
+
+            <mods:relatedItem type="host" displayLabel="collection">
+                <mods:titleInfo>
+                    <mods:title>Riot Grrrl Virtual Collection</mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+
+            <mods:location>
+                <mods:url displayLabel="Website" dateLastAccessed="2018-07-04"
+                    >https://www.discogs.com/Various-Theres-A-Dyke-In-The-Pit/master/438462</mods:url>
+            </mods:location>
+
+            <mods:recordInfo>
+                <mods:recordCreationDate encoding="w3cdtf">2018-07-04</mods:recordCreationDate>
+            </mods:recordInfo>
+
+
+        </mods:mods>
+    </riot:modsSection>
+
+
+    <riot:vraSection>
+        <vra:worktypeSet>
+            <vra:display>Sound Recordings;CD</vra:display>
+            <vra:worktype vocab="AAT" refid="300028633">Sound Recordings</vra:worktype>
+        </vra:worktypeSet>
+    </riot:vraSection>
+
+</riot:riot>
