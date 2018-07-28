@@ -19,7 +19,7 @@
             </mods:titleInfo>
             
             <mods:name type="corporate" authority="naf">
-                <mods:namePart>Tantor Audio</mods:namePart>
+                <mods:namePart>Tantor Audio (firm)</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text">Publisher</mods:roleTerm>
                     <mods:roleTerm type="code">pbl</mods:roleTerm>
@@ -27,7 +27,7 @@
             </mods:name>
             
             <mods:name type="personal" authority="naf">
-                <mods:namePart>Zeisler, Andi</mods:namePart>
+                <mods:namePart>Zeisler, Andi, 1972-</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text">Author</mods:roleTerm>
                     <mods:roleTerm type="code">aut</mods:roleTerm>
