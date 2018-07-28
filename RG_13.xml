@@ -35,14 +35,14 @@
                 </mods:place>
             </mods:originInfo>
 
-            <mods:genre authority="aat">MP3</mods:genre>
+            <mods:genre authority="lcsh">Protest songs</mods:genre>
 
 
 
             <mods:physicalDescription>
                 <mods:digitalOrigin>born digital</mods:digitalOrigin>
                 <mods:extent>1 MP3; 4:34</mods:extent>
-                <xxxx authority="aat">Digital audio; MP3<xxxx>
+                <mods:form authority="aat">Digital audio; MP3</mods:form>
             </mods:physicalDescription>
 
             <mods:abstract type="text">A collaboration between Tobi Vail (former drummer of Bikini Kill) and Henry Riot,
@@ -76,7 +76,7 @@
             </mods:subject>
             <mods:subject authority="local">
                 <mods:name type="personal">
-                    <mods:namePart>Vail, Tobi</mods:namePart>
+                    <mods:namePart>Vail, Tobi, 1969-</mods:namePart>
                 </mods:name>
             </mods:subject>
             <mods:subject authority="lcdgt">
