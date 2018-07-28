@@ -1,0 +1,29 @@
+<!-- Created using https://github.com/nsteffel/dublin-core-generator -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<riotdc
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Girls to the Front: The True Story of the Riot Grrrl</dc:title>
+<dc:creator>Marcus, Sara, 1977-</dc:creator>
+<dc:subject xsi:type="dcterms:LCSH">Punk rock music -- History and criticism</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Riot grrrl movement -- United States -- History</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Feminism and music -- United States -- History -- 20th century</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Feminism -- United States -- History -- 20th century</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Feminism</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Feminism and music</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Punk rock music</dc:subject>
+<dc:subject xsi:type="dcterms:LCSH">Riot grrrl movement</dc:subject>
+<dc:description>A history of Riot Grrrl, a radical feminist movement that was started in the 1990s by young women who were fed up with sexism and harassment and decided to make some noise.</dc:description>
+<dc:publisher>HarperPerennial</dc:publisher>
+<dc:date xsi:type="dcterms:W3CDTF">2010-09-28</dc:date>
+<dc:type xsi:type="dcterms:DCMIType">text</dc:type>
+<dc:format>book</dc:format>
+<dcterms:extent>367 p.</dcterms:extent>
+<dc:identifier>9780061806360</dc:identifier>
+<dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+<dc:relation>Riot Grrrl Virtual Collection</dc:relation>
+
+</riotdc>
