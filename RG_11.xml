@@ -29,7 +29,7 @@
         </mods:name>
         
         <mods:name type="personal" authority="naf">
-            <mods:namePart>Hanna, Kathleen 1968-</mods:namePart>
+            <mods:namePart>Hanna, Kathleen, 1968-</mods:namePart>
             <mods:role>
                 <mods:roleTerm type="text">Contributor</mods:roleTerm>
                 <mods:roleTerm type="code">ctb</mods:roleTerm>
@@ -37,7 +37,7 @@
         </mods:name>
         
         <mods:name type="personal" authority="local">
-            <mods:namePart>Vail, Tobi 1969-</mods:namePart>
+            <mods:namePart>Vail, Tobi, 1969-</mods:namePart>
             <mods:role>
                 <mods:roleTerm type="text">Contributor</mods:roleTerm>
                 <mods:roleTerm type="code">ctb</mods:roleTerm>
@@ -45,7 +45,7 @@
         </mods:name>
         
         <mods:name type="personal" authority="local">
-            <mods:namePart>Wilcox, Kathy 1969-</mods:namePart>
+            <mods:namePart>Wilcox, Kathy, 1969-</mods:namePart>
             <mods:role>
                 <mods:roleTerm type="text">Contributor</mods:roleTerm>
                 <mods:roleTerm type="code">ctb</mods:roleTerm>
