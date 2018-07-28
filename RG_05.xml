@@ -38,10 +38,16 @@
                     <mods:roleTerm type="code">ctb</mods:roleTerm>
                 </mods:role>
             </mods:name>
-         
             
-            <mods:genre authority="aat">documentary film
+<mods:genre authority="aat">feminism
             </mods:genre>
+            
+            <mods:genre authority="aat">punk (international movement)
+            </mods:genre>
+            
+            <mods:genre authority="aat">documentary films
+            </mods:genre>
+
             
              <mods:originInfo>
                 <mods:dateIssued keyDate="yes" encoding="w3cdtf">2006-12-19</mods:dateIssued>
