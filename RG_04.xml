@@ -51,11 +51,12 @@
             </mods:role>
         </mods:name>
         
-        <mods:genre authority="aat">documentary film
+        <mods:genre authority="aat">feminism
         </mods:genre>
         
- 
-        
+        <mods:genre authority="aat">punk (international movement)
+        </mods:genre>
+           
         <mods:originInfo>
             <mods:dateIssued keyDate="yes" encoding="w3cdtf">2017-09-19</mods:dateIssued>
             <mods:place>
