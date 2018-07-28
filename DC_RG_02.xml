@@ -23,6 +23,7 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:format>book</dc:format>
 <dcterms:extent>367 p.</dcterms:extent>
 <dc:identifier>9780061806360</dc:identifier>
+<dc:identifier>RG_02</dc:identifier>
 <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
 <dc:relation>Riot Grrrl Virtual Collection</dc:relation>
 
