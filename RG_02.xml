@@ -24,7 +24,7 @@
             </mods:role>
         </mods:name>
         
-        <mods:genre authority="aat">histories (literary works)
+        <mods:genre authority="aat">punk (international movement)
         </mods:genre>
         
         <mods:originInfo>
@@ -83,6 +83,8 @@
         <mods:subject authority="lcsh">
             <mods:topic>Punk</mods:topic>
         </mods:subject>
+        
+        <mods:subject authority="aat">histories (literary works)</mods:subject>
                
         
         <mods:language>
