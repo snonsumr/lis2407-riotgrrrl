@@ -9,7 +9,7 @@
 <riot:modsSection>
     <mods:mods>
         <mods:titleInfo>
-            <mods:title>Bikini Kill, Sydney Uni., Austrailia, 2nd May 1997</mods:title>
+            <mods:title>Bikini Kill, Sydney Uni., Australia, 2nd May 1997</mods:title>
         </mods:titleInfo>  
         
         <mods:name type="corporate" authority="naf">
@@ -50,13 +50,14 @@
                 <mods:roleTerm type="text">Contributor</mods:roleTerm>
                 <mods:roleTerm type="code">ctb</mods:roleTerm>
             </mods:role>
-        </mods:name>
+        </mods:name>     
         
-        <mods:genre authority="aat">black-and-white photographs
+        <mods:genre authority="aat">feminism
         </mods:genre>
         
-        <mods:genre authority="aat">documentary photographs
+        <mods:genre authority="aat">punk (international movement)
         </mods:genre>
+        
         
         <mods:originInfo>
             <mods:dateIssued keyDate="yes" encoding="w3cdtf">1997-05-02</mods:dateIssued>
@@ -98,6 +99,12 @@
         <mods:subject authority="lcsh">
             <mods:topic>Hanna, Kathleen, 1968-</mods:topic>
         </mods:subject>
+        
+        <mods:subject authority="aat">
+            <mods:topic>black-and-white photographs</mods:topic></mods:subject>
+        
+        <mods:subject authority="aat">
+            <mods:topic>documentary photographs</mods:topic></mods:subject>
         
         <mods:language>
             <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
