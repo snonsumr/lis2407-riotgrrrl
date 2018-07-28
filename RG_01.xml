@@ -24,7 +24,10 @@
             </mods:role>
         </mods:name>
         
-        <mods:genre authority="aat">novels</mods:genre>
+        
+        <mods:genre authority="aat">feminism</mods:genre>
+        
+        <mods:genre authority="aat">high schools (institutions)</mods:genre>
         
          
         <mods:originInfo>
