@@ -32,7 +32,7 @@
                 </mods:role>
             </mods:name>
 
-            <mods:name type="personal" authority="naf">
+            <mods:name type="personal" authority="local">
                 <mods:namePart>Vail, Tobi 1969-</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text">Author</mods:roleTerm>
@@ -40,7 +40,7 @@
                 </mods:role>
             </mods:name>
 
-            <mods:name type="personal" authority="naf">
+            <mods:name type="personal" authority="local">
                 <mods:namePart>Wilcox, Kathy 1969-</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text">Author</mods:roleTerm>
@@ -58,7 +58,7 @@
             <mods:genre authority="aat">punk (international movement)</mods:genre>
 
             <mods:physicalDescription>
-                <xxxx authority="marcsmd">text<xxxx>
+                <mods:form authority="marcsmd">text</mods:form>
                 <mods:extent>"24 p."</mods:extent>
                 <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
             </mods:physicalDescription>
@@ -104,6 +104,7 @@
 
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="w3cdtf">2018-07-25</mods:recordCreationDate>
+                <mods:recordContentSource>ppiuls</mods:recordContentSource>
             </mods:recordInfo>
 
         </mods:mods>
