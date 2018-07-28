@@ -15,8 +15,8 @@
                 <mods:title>What is Riot Grrrl?</mods:title>
             </mods:titleInfo>
 
-            <mods:name type="personal" authority="naf">
-                <mods:namePart>Reinstein, Erika "1973"-</mods:namePart>
+            <mods:name type="personal" authority="local">
+                <mods:namePart>Reinstein, Erika, ca.1973-</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text">Author</mods:roleTerm>
                     <mods:roleTerm type="code">aut</mods:roleTerm>
@@ -34,7 +34,7 @@
             <mods:genre authority="aat">DIY (cultural movements and attitudes)</mods:genre>
             
             <mods:physicalDescription>
-                <xxxx authority="marcsmd">text<xxxx>
+                <mods:form authority="marcsmd">text</mods:form>
                 <mods:extent>1 flier; 8.5 x 11 in</mods:extent>
                 <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
             </mods:physicalDescription>
@@ -79,6 +79,7 @@
 
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="w3cdtf">2018-07-25</mods:recordCreationDate>
+                <mods:recordContentSource>ppiuls</mods:recordContentSource>
             </mods:recordInfo>
 
         </mods:mods>
