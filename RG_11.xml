@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+<riot:riotSection></riot:riotSection>
+
+<riot:modsSection>
+    <mods:mods>
+        <mods:titleInfo>
+            <mods:title>Bikini Kill, Sydney Uni., Austrailia, 2nd May 1997</mods:title>
+        </mods:titleInfo>  
+        
+        <mods:name type="corporate" authority="naf">
+            <mods:namePart>Bikini Kill (Musical group)</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Artist</mods:roleTerm>
+                <mods:roleTerm type="code">art</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:name type="personal" authority="naf">
+            <mods:namePart>Howarth, Sophie</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Photographer</mods:roleTerm>
+                <mods:roleTerm type="code">pht</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:name type="personal" authority="naf">
+            <mods:namePart>Hanna, Kathleen 1968-</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Contributor</mods:roleTerm>
+                <mods:roleTerm type="code">ctb</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:name type="personal" authority="naf">
+            <mods:namePart>Vail, Tobi 1969-</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Contributor</mods:roleTerm>
+                <mods:roleTerm type="code">ctb</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:name type="personal" authority="naf">
+            <mods:namePart>Wilcox, Kathy 1969-</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Contributor</mods:roleTerm>
+                <mods:roleTerm type="code">ctb</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:genre authority="aat">black-and-white photographs
+        </mods:genre>
+        
+        <mods:genre authority="aat">documentary photographs
+        </mods:genre>
+        
+        <mods:originInfo>
+            <mods:dateIssued keyDate="yes" encoding="w3cdtf">1997-05-02</mods:dateIssued>
+            <mods:place>
+                <mods:placeTerm>Sydney, Australia</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Sophie Howarth</mods:publisher>
+            <mods:copyrightDate encoding="w3cdtf">1997-05-02</mods:copyrightDate>
+        </mods:originInfo>
+        
+        <mods:abstract>A photograph of a Bikini Kill concert at Sydney University, Australia in 1997.</mods:abstract>
+        
+        <mods:physicalDescription>
+            <mods:form authority="marcsmd">photoprint</mods:form>form>
+            <mods:extent>1 photo</mods:extent>
+        </mods:physicalDescription>
+        
+        <mods:physicalDescription>
+            <mods:digitalOrigin>reformatted digital 
+            </mods:digitalOrigin>
+        </mods:physicalDescription>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Riot grrrl movement</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Feminism and music</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Women rock musicians -- Biography</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Punk rock musicians -- Biography</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Hanna, Kathleen, 1968-</mods:topic>
+        </mods:subject>
+        
+        <mods:language>
+            <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        
+        <mods:identifier type="local" displayLabel="Item Number">RG_11
+        </mods:identifier>
+        
+        <mods:relatedItem type="host" displayLabel="collection">
+            <mods:titleInfo>
+                <mods:title>Riot Grrrl Virtual Collection
+                </mods:title>
+            </mods:titleInfo>
+        </mods:relatedItem>
+        
+        <mods:location>
+            <mods:url displayLabel="Website" dateLastAccessed="2018-07-27">https://bikinikillarchive.files.wordpress.com/2010/03/97.jpg
+            </mods:url>
+        </mods:location>
+        <mods:recordInfo>
+            <mods:recordCreationDate encoding="w3cdtf">2018-07-27</mods:recordCreationDate>
+            <mods:recordContentSource>ppiuls</mods:recordContentSource>
+        </mods:recordInfo>
+        
+    </mods:mods>
+</riot:modsSection>
+
+<riot:vraSection>
+    <vra:worktypeSet>
+        <vra:display>black-and-white photographs</vra:display>
+        <vra:worktype vocab="AAT" refid="300128347">black-and-white photographs</vra:worktype>
+    </vra:worktypeSet>
+</riot:vraSection>
+
+</riot:riot>

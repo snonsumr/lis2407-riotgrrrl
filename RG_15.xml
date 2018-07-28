@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+    <riot:riotSection>
+        
+    </riot:riotSection>
+    
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>We Were Feminists Once</mods:title>
+            </mods:titleInfo>
+            <mods:titleInfo>
+                <mods:nonSort>From</mods:nonSort>
+                <mods:subTitle>From riot grrrl to cover girl, the buying and selling of a political movement</mods:subTitle>
+            </mods:titleInfo>
+            
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Tantor Audio</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Publisher</mods:roleTerm>
+                    <mods:roleTerm type="code">pbl</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Zeisler, Andi</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Author</mods:roleTerm>
+                    <mods:roleTerm type="code">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Jacob, Joell A.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">narrator</mods:roleTerm>
+                    <mods:roleTerm type="code">nrt</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            <mods:genre authority="aat">audiobooks
+            </mods:genre>
+           
+            
+            <mods:originInfo>
+                <mods:dateIssued keyDate="yes" encoding="w3cdtf">2016-05-03</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm>Old Saybrook, CT</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Tantor Audio</mods:publisher>
+                <mods:copyrightDate encoding="w3cdtf">2016-05-03</mods:copyrightDate>
+            </mods:originInfo>
+            
+            <mods:abstract>Discusses ways in which feminism has, in recent times, been overtaken by mass media and substantially watered down as a result.
+            </mods:abstract>
+            
+            <mods:physicalDescription>
+                <mods:form authority="aat">optical disc</mods:form>
+                <mods:extent>10:30:00 minutes</mods:extent>
+            </mods:physicalDescription>
+            
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism -- United States</mods:topic>
+            </mods:subject>
+            
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism and mass media -- United States</mods:topic>
+            </mods:subject>
+            
+            <mods:subject authority="lcsh">
+                <mods:topic>Women in popular culture -- United States</mods:topic>
+            </mods:subject>
+            
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            
+            <mods:identifier type="local" displayLabel="Item Number">RG_15
+            </mods:identifier>
+            
+            <mods:relatedItem type="host" displayLabel="collection">
+                <mods:titleInfo>
+                    <mods:title>Riot Grrrl Virtual Collection
+                    </mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            
+            <mods:location>
+                <mods:url displayLabel="Website" dateLastAccessed="2018-07-27">https://iiisy1.einetwork.net/record=b3621973
+                </mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate encoding="w3cdtf">2018-07-27</mods:recordCreationDate>
+                <mods:recordContentSource>ppiuls</mods:recordContentSource>
+            </mods:recordInfo>
+            
+        </mods:mods>
+    </riot:modsSection>
+    
+    <riot:vraSection>
+        <vra:worktypeSet>
+            <vra:display>audiobooks</vra:display>
+            <vra:worktype vocab="AAT" refid="300266747">audiobooks</vra:worktype>
+        </vra:worktypeSet>
+    </riot:vraSection>
+
+</riot:riot>

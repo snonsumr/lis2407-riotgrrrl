@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+    <riot:riotSection></riot:riotSection>
+    
+    <riot:modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Don't Need You</mods:title>
+            </mods:titleInfo>  
+            <mods:titleInfo>
+                <mods:subTitle>Herstory of Riot Grrrl</mods:subTitle>
+            </mods:titleInfo>
+            
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>Urban Cowgirl Productions</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Production company</mods:roleTerm>
+                    <mods:roleTerm type="code">prn</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Koch, Kerri</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Director</mods:roleTerm>
+                    <mods:roleTerm type="code">drt</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            
+            <mods:name type="personal" authority="naf">
+                <mods:namePart>Hanna, Kathleen, 1968-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Contributor</mods:roleTerm>
+                    <mods:roleTerm type="code">ctb</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+         
+            
+            <mods:genre authority="aat">documentary film
+            </mods:genre>
+            
+             <mods:originInfo>
+                <mods:dateIssued keyDate="yes" encoding="w3cdtf">2006-12-19</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm>New York, NY</mods:placeTerm>
+                </mods:place>
+                 <mods:publisher>Urban Cowgirl Productions</mods:publisher>
+                <mods:copyrightDate encoding="w3cdtf">2006-12-19</mods:copyrightDate>
+            </mods:originInfo>
+            
+            <mods:abstract>Tells the story of the origins of the riot grrrl movement in the American independent music scene of the 1990's, and how this feminist movement evolved into a revolutionary underground network of education and self-awareness. The film features one-on-one interviews interspersed with rare, archival materials, including original riot grrrl fanzines, flyers, and photographs, as well as seldom seen footage from pioneering riot grrrl bands like Bikini Kill, Heavens to Betsy, and Bratmobile.
+            </mods:abstract>
+            
+            <mods:physicalDescription>
+                <mods:form authority="marcsmd">optical disc</mods:form>
+                <mods:extent>00:90:00 minutes</mods:extent>
+            </mods:physicalDescription>
+            
+            <mods:physicalDescription>
+                <mods:digitalOrigin>reformatted digital 
+                </mods:digitalOrigin>
+            </mods:physicalDescription>
+            
+            <mods:subject authority="lcsh">
+                <mods:topic>Riot grrrl movement</mods:topic>
+            </mods:subject>
+            
+            <mods:subject authority="lcsh">
+                <mods:topic>Feminism and music</mods:topic>
+            </mods:subject>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+                <mods:languageTerm type="text">English</mods:languageTerm>
+            </mods:language>
+            
+            <mods:identifier type="local" displayLabel="Item Number">RG_05
+            </mods:identifier>
+            
+            <mods:relatedItem type="host" displayLabel="collection">
+                <mods:titleInfo>
+                    <mods:title>Riot Grrrl Virtual Collection
+                    </mods:title>
+                </mods:titleInfo>
+            </mods:relatedItem>
+            
+            <mods:location>
+                <mods:url displayLabel="Website" dateLastAccessed="2018-07-27">http://www.worldcat.org/oclc/1039446621
+                </mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordCreationDate encoding="w3cdtf">2018-07-27</mods:recordCreationDate>
+                <mods:recordContentSource>ppiuls</mods:recordContentSource>
+            </mods:recordInfo>
+          
+        </mods:mods>
+    </riot:modsSection>
+    
+    <riot:vraSection>
+        <vra:worktypeSet>
+            <vra:display>DVDs</vra:display>
+            <vra:worktype vocab="AAT" refid="300128355">DVDs</vra:worktype>
+        </vra:worktypeSet>
+    </riot:vraSection>
+    
+    
+</riot:riot>

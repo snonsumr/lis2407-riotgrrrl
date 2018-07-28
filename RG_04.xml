@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+<riot:riotSection>
+
+</riot:riotSection>
+
+<riot:modsSection>
+    <mods:mods>
+        <mods:titleInfo>
+            <mods:nonSort>The</mods:nonSort>
+            <mods:title>The Punk Singer</mods:title>
+        </mods:titleInfo>  
+        <mods:titleInfo>
+            <mods:nonSort>A</mods:nonSort>
+            <mods:subTitle>A film about Kathleen Hanna</mods:subTitle>
+        </mods:titleInfo>
+        
+        <mods:name type="corporate" authority="naf">
+            <mods:namePart>IFC Films</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Production company</mods:roleTerm>
+                <mods:roleTerm type="code">prn</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+            
+            <mods:name type="corporate" authority="naf">
+                <mods:namePart>MPI Media Group</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">Publisher</mods:roleTerm>
+                    <mods:roleTerm type="code">pbl</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        
+        <mods:name type="personal" authority="naf">
+            <mods:namePart>Anderson, Sini, 1969-</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Director</mods:roleTerm>
+                <mods:roleTerm type="code">drt</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:name type="personal" authority="naf">
+            <mods:namePart>Hanna, Kathleen, 1968-</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Contributor</mods:roleTerm>
+                <mods:roleTerm type="code">ctb</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:genre authority="aat">documentary film
+        </mods:genre>
+        
+ 
+        
+        <mods:originInfo>
+            <mods:dateIssued keyDate="yes" encoding="w3cdtf">2017-09-19</mods:dateIssued>
+            <mods:place>
+                <mods:placeTerm>New York, NY</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>MPI Media Group</mods:publisher>
+            <mods:copyrightDate encoding="w3cdtf">2014-03-25</mods:copyrightDate>
+        </mods:originInfo>
+        
+        <mods:abstract>A look at the life of activist, musician, and cultural icon Kathleen Hanna, who formed the punk band Bikini Kill and pioneered the "riot grrrl" movement of the 1990s. Includes archival footage and interviews with Hanna and others.
+        </mods:abstract>
+        
+        <mods:physicalDescription>
+            <mods:form authority="marcsmd">optical disc</mods:form>
+            <mods:extent>00:81:00 minutes</mods:extent>
+        </mods:physicalDescription>
+         
+        <mods:physicalDescription>
+            <mods:digitalOrigin>reformatted digital 
+            </mods:digitalOrigin>
+        </mods:physicalDescription>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Hanna, Kathleen, 1968-</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Women rock musicians -- Biography</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Punk rock musicians -- Biography</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Riot grrrl movement</mods:topic>
+        </mods:subject>
+        
+        <mods:language>
+            <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        
+        <mods:identifier type="local" displayLabel="Item Number">RG_04
+        </mods:identifier>
+        
+        <mods:relatedItem type="host" displayLabel="collection">
+            <mods:titleInfo>
+                <mods:title>Riot Grrrl Virtual Collection
+                </mods:title>
+            </mods:titleInfo>
+        </mods:relatedItem>
+        
+        <mods:location>
+            <mods:url displayLabel="Website" dateLastAccessed="2018-07-27">http://www.worldcat.org/oclc/965587376
+            </mods:url>
+        </mods:location>
+        <mods:recordInfo>
+            <mods:recordCreationDate encoding="w3cdtf">2018-07-27</mods:recordCreationDate>
+            <mods:recordContentSource>ppiuls</mods:recordContentSource>
+        </mods:recordInfo>
+        
+    </mods:mods>
+</riot:modsSection>
+
+<riot:vraSection>
+    <vra:worktypeSet>
+        <vra:display>DVDs</vra:display>
+        <vra:worktype vocab="AAT" refid="300128355">DVDs</vra:worktype>
+    </vra:worktypeSet>
+</riot:vraSection>
+
+
+</riot:riot>

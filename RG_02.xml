@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<riot:riot xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" xmlns:riot="http://www.pitt.edu/~abb83/LIS2407"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xsi:schemaLocation="http://www.pitt.edu/~abb83/LIS2407/riotgrrrl.xsd">
+
+<riot:riotSection></riot:riotSection>
+
+<riot:modsSection>
+    <mods:mods>
+        <mods:titleInfo>
+            <mods:title>Girls to the Front</mods:title>
+        </mods:titleInfo>
+        <mods:titleInfo>
+            <mods:nonSort>The</mods:nonSort>
+            <mods:subTitle>true story of the Riot grrrl revolution</mods:subTitle>
+        </mods:titleInfo>
+        
+        <mods:name type="personal" authority="naf">
+            <mods:namePart>Marcus, Sara, 1977-</mods:namePart>
+            <mods:role>
+                <mods:roleTerm type="text">Author</mods:roleTerm>
+                <mods:roleTerm type="code">aut</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        
+        <mods:genre authority="aat">histories (literary works)
+        </mods:genre>
+        
+        <mods:originInfo>
+            <mods:dateIssued keyDate="yes" encoding="w3cdtf">2010-09-28</mods:dateIssued>
+            <mods:place>
+                <mods:placeTerm>New York, NY</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>HarperPerennial</mods:publisher>
+            <mods:copyrightDate encoding="w3cdtf">2010-09-28</mods:copyrightDate>
+        </mods:originInfo>
+        
+        <mods:abstract>A history of Riot Grrrl, a radical feminist movement that was started in the 1990s by young women who were fed up with sexism and harrassment and decided to make some noise.
+        </mods:abstract>
+        
+        <mods:physicalDescription>
+            <mods:form authority="marcsmd">regular print</mods:form>
+            <mods:extent>367 p.</mods:extent>
+        </mods:physicalDescription>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Punk rock music -- History and criticism</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Riot grrrl movement -- United States -- History</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Feminism and music -- United States -- History -- 20th century</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Feminism -- United States -- History -- 20th century</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Feminism</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Feminism and music</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Punk rock music</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Riot grrrl movement</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Riot grrrl</mods:topic>
+        </mods:subject>
+        
+        <mods:subject authority="lcsh">
+            <mods:topic>Punk</mods:topic>
+        </mods:subject>
+               
+        
+        <mods:language>
+            <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+        </mods:language>
+        
+        <mods:identifier type="local" displayLabel="Item Number">RG_02
+        </mods:identifier>
+        
+        <mods:relatedItem type="host" displayLabel="collection">
+            <mods:titleInfo>
+                <mods:title>Riot Grrrl Virtual Collection
+                </mods:title>
+            </mods:titleInfo>
+        </mods:relatedItem>
+        
+        <mods:location>
+            <mods:url displayLabel="Website" dateLastAccessed="2018-07-27">http://www.worldcat.org/oclc/994000583
+            </mods:url>
+        </mods:location>
+        
+        <mods:recordInfo>
+            <mods:recordCreationDate encoding="w3cdtf">2018-07-27</mods:recordCreationDate>
+            <mods:recordContentSource>ppiuls</mods:recordContentSource>
+        </mods:recordInfo>
+        
+              
+    </mods:mods>
+</riot:modsSection>
+    
+    <riot:vraSection>
+        <vra:worktypeSet>
+            <vra:display>books</vra:display>
+            <vra:worktype vocab="AAT" refid="300028051">books</vra:worktype>
+        </vra:worktypeSet>
+    </riot:vraSection>
+
+</riot:riot>
